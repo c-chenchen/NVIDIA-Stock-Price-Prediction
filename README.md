@@ -60,8 +60,8 @@ While the predictions appear smooth, the model mainly learns past patterns rathe
 ---
 ## 🚀 How to Run
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/c-chenchen/NVIDIA-Stock-Price-Prediction.git
+cd NVIDIA-Stock-Price-Prediction
 pip install -r requirements.txt
 jupyter notebook stock_price_prediction.ipynb
 ```
