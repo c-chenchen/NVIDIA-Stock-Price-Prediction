@@ -1,9 +1,13 @@
 # 📈 Stock Price Prediction Using LSTM
+
 This project implements a Long Short-Term Memory (LSTM) neural network to predict stock prices using historical market data. The model is trained on past price movements and evaluated on its ability to forecast future values.
+
 ---
 ## 📌 Overview
+
 Stock prices exhibit sequential and temporal patterns, making them suitable for time-series models such as LSTMs.
 This project demonstrates how deep learning can be applied to financial data for predictive analysis.
+
 ---
 ## 🛠 Technologies Used
 - Python
